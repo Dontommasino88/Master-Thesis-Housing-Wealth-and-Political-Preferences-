@@ -28,7 +28,7 @@ Socioeconomic neighbourhood data: CBS Kerncijfers Wijken en Buurten 2004–2025
 Neighbourhood shapefiles: CBS wijken en buurten shapefile (wijkenbuurten_2023_v3.gpkg)
 
 
-Note: Raw data files are not included in this repository due to file size constraints. Election results and CBS neighbourhood data are publicly available via data.overheid.nl and opendata.cbs.nl.
+Note: Raw data files are not included in this repository. Election results and CBS neighbourhood data are publicly available via data.overheid.nl and opendata.cbs.nl.
 
 Execution Order
 
