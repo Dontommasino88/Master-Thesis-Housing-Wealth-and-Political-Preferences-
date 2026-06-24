@@ -10,15 +10,16 @@ To what extent do housing wealth gains shape political preferences across neighb
 
 Repository Structure
 
-housing-wealth-voting-netherlands/
-├── README.md
-├── data_pipeline/
-│   ├── CBS_DATA_CLEANING_TEMPLATE_WOZ_plus_controls_2004_2012.do
-│   ├── CBS_DATA_CLEANING_TEMPLATE_WOZ_plus_controls_2013_.do
-│   ├── MASTER_APPEND_DO-FILE_WOZ_PANEL_2004_2025.do
-│   └── pipeline.py
-└── regressions/
-    └── regressions.py
+housing-wealth-voting-netherlands
+
+* data cleaning, merging and appending
+- CBS_DATA_CLEANING_TEMPLATE_WOZ_plus_controls_2004_2012.do
+- CBS_DATA_CLEANING_TEMPLATE_WOZ_plus_controls_2013_.do
+- MASTER_APPEND_DO-FILE_WOZ_PANEL_2004_2025.do
+* Geospatial matching
+- pipeline.py
+* regressions
+- regressions.py
 
 Data Sources
 
